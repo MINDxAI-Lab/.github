@@ -4,7 +4,7 @@
 <!-- 请确保在 markdown 中直接插入此段 -->
 <div>
   <img 
-    src="[https://github.com/user-attachments/assets/…png](https://github.com/user-attachments/assets/a01ae158-ef67-4220-8d7c-dd4124435c4a)" 
+    src="https://github.com/user-attachments/assets/a01ae158-ef67-4220-8d7c-dd4124435c4a" 
     alt="Lab Director" 
     width="200" 
     style="float:left; margin:0 16px 16px 0;" 
