@@ -1,13 +1,12 @@
 # Welcome to MINDxAI Lab! 🤖 🚖 🧠 🔧
 
 **Lab Director:**  
-
 <table>
   <tr>
     <!-- 将图片单独放在左侧单元格 -->
     <td valign="top" width="200">
       <img 
-        src="https://github.com/user-attachments/assets/…png" 
+        src="https://github.com/user-attachments/assets/a01ae158-ef67-4220-8d7c-dd4124435c4a"  
         alt="Lab Director" 
         width="200" 
       />
