@@ -10,7 +10,6 @@
         src="https://github.com/user-attachments/assets/…png" 
         alt="Lab Director" 
         width="200" 
-        style="float:left; margin:0 16px 16px 0;" 
       />
     </td>
     <!-- 文字放在右侧单元格 -->
